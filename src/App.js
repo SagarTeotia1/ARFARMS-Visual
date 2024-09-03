@@ -2,8 +2,8 @@ import React, { useState, useEffect } from 'react';
 import './App.css';
 
 // Import new 3D model files and images
-import wheatModel from './assets/rice farm.glb'; // Wheat model
-import paddyModel from './assets/rice farm.glb'; // Paddy model
+import wheatModel from './assets/wheat.glb'; // Wheat model
+import paddyModel from './assets/rice_plant (1).glb'; // Paddy model
 import cornModel from './assets/rice farm.glb'; // Corn model
 import vegetablesModel from './assets/rice farm.glb'; // Vegetables model
 
